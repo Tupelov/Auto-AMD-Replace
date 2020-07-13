@@ -9,3 +9,5 @@ Instructions:
 3) Run the exe
 
 4) check your data files to see if they changed
+
+(Release doesn't work at all if you want to use it youll have to run it inside a java ide)
